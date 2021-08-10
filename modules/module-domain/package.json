@@ -11,6 +11,10 @@
   },
   "author": "charleston anjos <charleston.anjos@gmail.com>",
   "license": "ISC",
+  "dependencies": {
+    "module-core": "../module-core",
+    "module-data": "../module-data"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.24",
     "jest": "^27.0.6",
