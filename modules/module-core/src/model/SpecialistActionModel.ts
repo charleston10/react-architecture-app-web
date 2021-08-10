@@ -1,4 +1,4 @@
-interface SpecialistActionModel {
-    chat: string;
-    phone: string | null;
+export interface SpecialistActionModel {
+  chat: string;
+  phone: string | null;
 }
